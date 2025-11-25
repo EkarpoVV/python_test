@@ -3,6 +3,7 @@ def in_autotests_we_trust(a, b):
         print('PASS1')
     else:
         print('FAIL1')
+        print('FAIL2')
 
 in_autotests_we_trust(10, '10')
 
